@@ -15,3 +15,7 @@ npm i -save suma-propisom-ukr
 var SumPropis = require('suma-propisom-ukr')
 
 SumPropis(15690) //п'ятнадцять тисяч шістсот дев'яносто гривень 00 копійок
+
+### demo
+
+[suma-propisom-ukr demo on codepen](http://codepen.io/artbels/pen/amEmGv)

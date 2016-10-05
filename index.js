@@ -3,9 +3,6 @@
  * @ artbels
  * artbels@gmail.com
  * 2016
- * ver 0.0.1
- *
- * forked from http://javascript.ru/forum/misc/40642-summa-propisyu.html
  *
  */
 
