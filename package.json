@@ -1,0 +1,18 @@
+{
+  "name": "suma-propisom-ukr",
+  "version": "1.0.0",
+  "description": "Convert number to sum string, ukrainian language",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "artbels",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "artbels-js-tools": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
