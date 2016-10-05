@@ -18,4 +18,4 @@ SumPropis(15690) //п'ятнадцять тисяч шістсот дев'яно
 
 ### demo
 
-[suma-propisom-ukr demo on codepen](http://codepen.io/artbels/pen/amEmGv)
+[suma-propisom-ukr demo on codepen](http://codepen.io/artbels/full/amEmGv/)
