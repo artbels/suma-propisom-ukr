@@ -1,6 +1,6 @@
 {
   "name": "suma-propisom-ukr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert number to sum string, ukrainian language",
   "main": "index.js",
   "scripts": {
